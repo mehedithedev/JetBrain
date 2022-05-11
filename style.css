@@ -1,0 +1,100 @@
+body{
+    background-color: #2b2b2b;
+    position: relative;
+
+}
+.navbar{
+    background-color: #2b2b2b;
+}
+.navbar a img{
+    height: 70px ;
+    width: 70px;
+}
+.writings{
+    font-size: 20px;
+    /* text-align: justify; */
+}
+#developer_tool a{
+    text-decoration: none;
+    color: grey;
+    margin: 10px 0;
+}
+#developer_tool{
+    margin: 20px 0;
+    /* padding: 20px 10px; */
+}
+.space_image img{
+    width: 100%;
+}
+.content{
+    padding:20px 10px;
+    background-color: antiquewhite;
+    height: 100%;
+    box-shadow: 1px 1px 5px white;
+    border-radius: 50px;
+}
+.content:hover{
+    background-color: aliceblue;
+    box-shadow: 1px 1px 20px white;
+    transition: all linear 1s;
+    
+}
+
+.carousel-inner{
+    height: 600px;
+}
+#carosoul_effect{
+        margin:30px 0;
+}
+.row h1 img{
+    width: 10%;
+    height: 100%;
+}
+
+.card img{
+    height: 240px;
+}
+.card-text{
+    text-align: justify;
+}
+.progress{
+    background: none;
+}
+.pagination{
+    text-align: center;
+    /* display: flex; */
+    /* justify-content: center; */
+    margin: 50px auto;
+
+}
+#partners i{
+    font-size: 180px;
+}
+#partners{
+    text-align: center;
+}
+#partners img{
+    height: 180px;
+    width: 250px;
+}
+#Pricing{
+  
+    margin-left: 50px;
+}
+#customer_stories{
+     
+    margin-left: 50px;
+}
+#jumbotron{
+    margin-left: 50px;
+}
+.navbar-nav .nav-item{
+    padding: 0 10px;
+}
+.nav-item .nav-link{
+    font-size: 20px;
+}
+
+footer{
+    background-color: black;
+}
